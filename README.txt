@@ -1,6 +1,19 @@
 Tested using Bazzite
 
-Linux
+# Adding to Lutris
+- Add locally installed game
+- Game info
+  - Set Name to whatever you want
+  - Set Runner to Wine (Runs Windows games)
+- Game Options
+  - Set Executable to Start Here.cmd
+  - Create a new folder somewhere and set Wine Prefix to that folder
+- Runner Options
+  - Wine version should be GE-Proton Latest
+  - The rest can stay enabled
+ 
+
+ # Linux
 -------------
 1. Install the Powershell dll and components to your prefix using wine tricks
 2. Download my fixes from the releases tab https://github.com/gamecube7561/BlueSpark-Linux-Fixes/releases/tag/release
