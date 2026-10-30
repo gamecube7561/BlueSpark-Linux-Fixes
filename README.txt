@@ -3,7 +3,8 @@ Tested using Bazzite
 Linux
 -------------
 1. Install the Powershell dll and components to your prefix using wine tricks
-2. Overwrite the files with mine
+2. Download my fixes from the releases tab https://github.com/gamecube7561/BlueSpark-Linux-Fixes/releases/tag/release
+3. Overwrite the files with mine
 
 
 
