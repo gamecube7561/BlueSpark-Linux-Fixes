@@ -1,3 +1,17 @@
+Tested using Bazzite
+
+Linux
+-------------
+1. Install the Powershell dll and components to your prefix using wine tricks
+2. Overwrite the files with mine
+
+
+
+
+
+
+
+
 BlueSpark
 =========
 
