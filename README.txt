@@ -16,6 +16,13 @@ Tested using Bazzite
  # Linux
 -------------
 1. Install the Powershell dll and components to your prefix using wine tricks
+  - Select the game in Lutris
+  -  Click the wine glass next to the play button
+  -  Select winetricks
+  - Select "Select the default wineprefix" and click OK
+  - Select "Install WSindows DLL or component" and click OK
+  - Select powershell and powershell_core and click OK
+  - Cancel out of winetricks
 2. Download my fixes from the releases tab https://github.com/gamecube7561/BlueSpark-Linux-Fixes/releases/tag/release
 3. Overwrite the files with mine
 
